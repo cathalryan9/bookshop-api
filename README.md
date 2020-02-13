@@ -1,6 +1,9 @@
 # bookshop-api
 Rest API for a bookshop
 
+## How to run
+On Linux: *./mvnw spring-boot:run*
+
 ## Endpoints
 
 All endpoints have admin query string for authorisation purposes. On true, additional fields are returned
