@@ -1,0 +1,13 @@
+package com.bookshop.bookshopapi;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class BookshopApiApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(BookshopApiApplication.class, args);
+	}
+
+}
